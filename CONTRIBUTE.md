@@ -2,7 +2,7 @@
 Thanks for your interest!  We would love to see your az kung fu!
 
 ## Branching
-Please fork the project create a branch from Master.
+Please fork the project create a branch from dev.
 
 ## Code
 - All files should be named with the .azcli extension.
@@ -16,7 +16,7 @@ Please fork the project create a branch from Master.
 ```
 
 ## Pull Request
-Create pull request and it will be reviewed as soon as possible.
+Create pull request to the dev branch, and it will be reviewed as soon as possible.
 
 ## Issues
 - Please feel to create issues, but only with specific problems you can describe. Don't write "can't get this to work", without something to help us figure out what is happening.
